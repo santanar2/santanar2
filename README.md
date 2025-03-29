@@ -42,6 +42,7 @@
 
 ![santanar2 github stats](https://github-readme-stats.vercel.app/api?username=santanar2&show_icons=true&theme=radical)
 
+<img loading="lazy" height="218em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=santanar2&layout=compact&langs_count=7&theme=radical"/>
 
 ## Projetos:
 
