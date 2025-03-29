@@ -12,9 +12,9 @@
 - Técnica em Eletrotécnica (GES)
 
 🎓 **Formação Superior:**
-- Estudante de Análise e Desenvolvimento de Sistemas (Unicesumar) - Conclusão prevista para 2026
+- Análise Desenvolvimento de Sistemas (Unicesumar) - Conclusão em 2026. :+1:
 
-🌌 Sou uma observadora do Universo em eterno aprendizado
+🌌 Sou uma observador do Universo em eterno aprendizado
 
 💞️ **Jornada de Aprendizado:**
 - Estudando através do site Curso em Vídeo com o Professor Guanabara
@@ -22,9 +22,15 @@
 - Focada no desenvolvimento das minhas habilidades como desenvolvedora
 
 ## Tecnologias que estou aprendendo:
-
+ 
+ <p align="center">
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width=100px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=100px />         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=100px />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=80px />
+  
+ </p>
 
 ## Certificados
 
