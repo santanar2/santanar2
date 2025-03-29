@@ -6,10 +6,10 @@
 ## :loop: Olá, eu sou Santana!
 
 🔧 **Formação Técnica:**
-- Técnica em Manutenção e Redes de Computadores (FIEB)
-- Especialização Técnica em Radiocomunicação (ETEC)
-- Técnica em Telecomunicação (ETEC)
-- Técnica em Eletrotécnica (GES)
+- Técnico em Manutenção e Redes de Computadores (FIEB)
+- Especialização Técnico em Radiocomunicação (ETEC)
+- Técnico em Telecomunicação (ETEC)
+- Técnico em Eletrotécnica (GES)
 
 🎓 **Formação Superior:**
 - Análise Desenvolvimento de Sistemas (Unicesumar) - Conclusão em 2026. :+1:
@@ -17,7 +17,7 @@
 🌌 Sou uma observador do Universo em eterno aprendizado
 
 :star2: **Jornada de Aprendizado:**
-- Estudando através do site Curso em Vídeo com o Professor Guanabara
+- Estudando através do site: Curso em Vídeo, com o Professor Guanabara
 - Aprimorando habilidades na plataforma Dio.me
 - Focada no desenvolvimento das minhas habilidades como desenvolvedor
 
