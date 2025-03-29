@@ -57,7 +57,7 @@
         
 [[LinkedIn](https://www.linkedin.com/in/ricardo-hon%C3%B3rio-de-santana-630a9493/)]
 </p>
----
+--------
 
 💡 Sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia!
 
