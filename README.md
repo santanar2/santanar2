@@ -5,14 +5,14 @@
 
 ## :loop: Olá, eu sou Santana!
 
+🎓 **Formação Superior:**
+- Superior de Tecnologia em análise e desenvolvimento de Sistemas (Unicesumar) - Conclusão em 2026. :+1:
+
 🔧 **Formação Técnica:**
 - Técnico em Manutenção e Redes de Computadores (FIEB)
 - Especialização Técnico em Radiocomunicação (ETEC)
 - Técnico em Telecomunicação (ETEC)
 - Técnico em Eletrotécnica (GES)
-
-🎓 **Formação Superior:**
-- Análise Desenvolvimento de Sistemas (Unicesumar) - Conclusão em 2026. :+1:
 
 🌌 Sou uma observador do Universo em eterno aprendizado
 
