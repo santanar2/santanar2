@@ -36,7 +36,7 @@
 
 | Cursos  | Certificados  |
 |---------|---------------|
-|Formação de GitHub Certifications |[Certificado]([https://hermes.dio.me/certificates/GXIT501Z.pdf](https://hermes.dio.me/certificates/914N9TFV.pdf)) |
+|Formação de GitHub Certifications |[Certificado](https://hermes.dio.me/certificates/914N9TFV.pdf) |
 
 ------------
 <p align="left">
