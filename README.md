@@ -14,7 +14,7 @@
 - Técnico em Telecomunicação (ETEC)
 - Técnico em Eletrotécnica (GES)
 
-🌌 Sou uma observador do Universo em eterno aprendizado
+:video_game: Nada no mundo se compara à persistência, se não for pelo talento é pela persistência Cayde-06.
 
 :star2: **Jornada de Aprendizado:**
 - Estudando através do site: Curso em Vídeo, com o Professor Guanabara
