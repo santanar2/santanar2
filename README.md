@@ -46,6 +46,19 @@
 <img loading="lazy" height="218em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=santanar2&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
+<h2 align="center">🐙 GitHub Stats</h2> 
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santanar2&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santanar2&theme=tokyonight&utcOffset=8)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santanar2&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santanar2&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santanar2&theme=tokyonight">
+</div>
+<br/>
+
+<div align="center">Made with 💜 by <a href="https://github.com/rhayssakramer">santanar2</a>.</div>  
+
+<a href="https://www.github.com/rhayssakramer/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db&section=footer"/></a>
 ## Projetos:
 
 [Aqui você pode listar alguns de seus projetos principais com breves descrições]
