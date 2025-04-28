@@ -39,12 +39,7 @@
 |Formação de GitHub Certifications |[Certificado](https://hermes.dio.me/certificates/914N9TFV.pdf) |
 
 ------------
-<p align="left">
- 
-![santanar2 github stats](https://github-readme-stats.vercel.app/api?username=santanar2&show_icons=true&theme=radical)
 
-<img loading="lazy" height="218em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=santanar2&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
 <h2 align="center">🐙 GitHub Stats</h2> 
 <div align="center">
@@ -56,7 +51,7 @@
 </div>
 <br/>
 
-<div align="center">Made with 💜 by <a href="https://github.com/rhayssakramer">santanar2</a>.</div>  
+<div align="center">Made with :video_game: by <a href="https://github.com/rhayssakramer">santanar2</a>.</div>  
 
 <a href="https://www.github.com/rhayssakramer/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db&section=footer"/></a>
 ## Projetos:
