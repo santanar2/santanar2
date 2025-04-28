@@ -41,7 +41,7 @@
 ------------
 
 
-<h2 align="center">🐙 GitHub Stats</h2> 
+<h2 align="center">🐙 GitHub Status</h2> 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santanar2&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santanar2&theme=tokyonight&utcOffset=8)">
