@@ -1,4 +1,4 @@
-<a href="https://www.github.com/rhayssakramer/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B0082&section=footer"/></a>
+<a href="https://www.github.com/rhayssakramer/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B0082"/></a>
 <!--Cabeçalhos -->
 
 # Bem-vindos ao meu GitHub! ⭐
