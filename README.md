@@ -36,6 +36,35 @@
   
  </p>
 
+<h2 align="center">🛠️ Habilidades Técnicas</h2>
+<table>
+<tr><td valign="top" width="25%">
+<h3 align="center">Frontend</h3>
+<div align="center">  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"></a>
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap"></a>
+  <a href="https://api.jquery.com/"><img src="https://skillicons.dev/icons?i=jquery"></a> 
+  <a href="https://angular.dev/overview"><img src="https://skillicons.dev/icons?i=angular"></a>
+  <a href="https://pt-br.react.dev/"><img src="https://skillicons.dev/icons?i=react"></a>
+  <a href="https://br.vuejs.org/v2/guide/index.html"><img src="https://skillicons.dev/icons?i=vue"></a>
+</div></td>
+  
+<td valign="top"  width="25%">
+<h3 align="center">Backend</h3>
+<div align="center">  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a>
+  <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs"></a>
+  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm"></a>
+  <a href="https://www.typescriptlang.org/pt/docs/"><img src="https://skillicons.dev/icons?i=typescript"></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs"></a>
+  <a href="https://dotnet.microsoft.com/pt-br/platform/try-dotnet"><img src="https://skillicons.dev/icons?i=dotnet"></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java"></a>
+  <a href="https://docs.spring.io/spring-framework/reference/index.html"><img src="https://skillicons.dev/icons?i=spring"></a>
+  <a href="https://docs.python.org/pt-br/"><img src="https://skillicons.dev/icons?i=python"></a>
+  <a href="https://docs.djangoproject.com/pt-br/5.1/"><img src="https://skillicons.dev/icons?i=django"></a>
+</div></td> 
+
 ## Certificados
 
 | Cursos  | Certificados  |
