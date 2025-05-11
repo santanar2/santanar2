@@ -1,4 +1,4 @@
-
+<a href="https://www.github.com/rhayssakramer/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4B0082&section=footer"/></a>
 <!--Cabeçalhos -->
 
 # Bem-vindos ao meu GitHub! ⭐
@@ -22,7 +22,7 @@
 - Focada no desenvolvimento das minhas habilidades como desenvolvedor
 
 
-<h2 align="center">🛠️ Tecnologias em aprendendo:</h2>
+<h2 align="center">🛠️ Tecnologias em aprendizado:</h2>
 <table>
 <tr><td valign="top" width="25%">
 <h3 align="center">Frontend</h3>
@@ -63,7 +63,7 @@
 <td valign="top" width="30%">
 <h3 align="center">Ferramentas e Tecnologias</h3>
 <div align="center">  
-  <a href="https://git-scm.com/docs/git/pt_BR"><img src="https://skillicons.dev/icons?i=git"></a>
+<!--  <a href="https://git-scm.com/docs/git/pt_BR"><img src="https://skillicons.dev/icons?i=git"></a> -->
   <a href="https://docs.github.com/pt"><img src="https://skillicons.dev/icons?i=github"></a>
  <!-- <a href="https://docs.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab"></a>
   <a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"><img src="https://skillicons.dev/icons?i=md"></a>
