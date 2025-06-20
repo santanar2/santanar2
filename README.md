@@ -16,6 +16,8 @@
 
 :video_game: Nada no mundo se compara à persistência, se não for pelo talento é pela persistência Cayde-06.
 
+:station: propósito: propósito que nos une, o propósito que nos guia, o propósito que define, o propósito que nos motiva
+
 :star2: **Jornada de Aprendizado:**
 - Estudando através do site: Curso em Vídeo, com o Professor Guanabara
 - Aprimorando habilidades na plataforma Dio.me
