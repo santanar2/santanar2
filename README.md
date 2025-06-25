@@ -20,7 +20,7 @@
 
 :star2: **Jornada de Aprendizado:**
 - Estudando através do site: Curso em Vídeo, com o Professor Guanabara
-- Aprimorando habilidades na plataforma Dio.me
+- Estudando através da plataforma Dio.me
 - Focada no desenvolvimento das minhas habilidades como desenvolvedor
 
 
