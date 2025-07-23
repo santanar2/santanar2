@@ -16,7 +16,7 @@
 
 :video_game: Nada no mundo se compara à persistência, se não for pelo talento é pela persistência. (Cayde-06)
 
-:station: propósito: propósito que nos une, o propósito que nos guia, o propósito que define, o propósito que nos motiva. (Mr. Smith Matrix)
+:station: propósito: Sem propósito, não existimos. Foi o propósito que nos criou. O propósito nos conecta. Ele nos impele. Nos guia. Nos motiva. O propósito nos define. O propósito nos une. Nós estamos aqui por sua causa,!!! (Mr. Smith Matrix)
 
 :star2: **Jornada de Aprendizado:**
 - Estudando através do site: Curso em Vídeo, com o Professor Guanabara
