@@ -14,7 +14,7 @@
 - Técnico em Telecomunicação (ETEC)
 - Técnico em Eletrotécnica (GES)
 
-:video_game: Nada no mundo se compara à persistência, se não for pelo talento é pela persistência. (Cayde-06)
+:video_game: Nada no mundo se compara à persistência, se não for pelo talento será pela persistência. (Cayde-06)
 
 :station: propósito: "Sem propósito, não existimos. Foi o propósito que nos criou. O propósito nos conecta. Ele nos impele. Nos guia.Nos motiva. O propósito nos define. O propósito nos une. Nós estamos aqui por sua causa,"!!! (Mr. Smith Matrix)
 
