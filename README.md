@@ -85,8 +85,8 @@
 
 ------------
 
-<h2 align="center">🛠️ BootCAMPS:</h2>
-<table>
+<h2 align="center">🛠️ BOOTtCAMPS:</h2>
+<table align="center" >
 <tr><td valign="top" width="25%">
 <!-- <h3 align="center">Frontend</h3>
 <div align="center">  
