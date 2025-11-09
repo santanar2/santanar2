@@ -129,8 +129,8 @@
 <!--<h3 align="center">Ferramentas e Tecnologias</h3> -->
 <div align="center">  
 <!--  <a href="https://git-scm.com/docs/git/pt_BR"><img src="https://skillicons.dev/icons?i=git"></a> -->
-  <a href="https://docs.github.com/pt"><img src="https://skillicons.dev/icons?i=github"></a>
- <!-- <a href="https://docs.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab"></a>
+ <!-- <a href="https://docs.github.com/pt"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="https://docs.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab"></a>
   <a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"><img src="https://skillicons.dev/icons?i=md"></a>
   <a href="https://learn.microsoft.com/pt-br/azure/"><img src="https://skillicons.dev/icons?i=azure"></a>
   <a href="https://learn.microsoft.com/pt-br/visualstudio/windows/?view=vs-2022"><img src="https://skillicons.dev/icons?i=visualstudio"></a>
