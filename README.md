@@ -55,9 +55,9 @@
 </div></td> 
 
 <td valign="top" width="15%">
-<h3 align="center">Banco de Dados</h3>
+<!--<h3 align="center">Banco de Dados</h3>
 <div align="center">  
-<!--  <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16"><img width="48" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/sqlserver.svg"></a>
+  <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16"><img width="48" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/sqlserver.svg"></a>
   <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql"></a>
   <a href="https://www.mongodb.com/pt-br/docs/"><img src="https://skillicons.dev/icons?i=mongodb"></a>
   <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres"></a> -->
