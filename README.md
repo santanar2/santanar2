@@ -126,7 +126,7 @@
 </div></td>
   
 <td valign="top" width="30%">
-<h3 align="center">Ferramentas e Tecnologias</h3>
+<!--<h3 align="center">Ferramentas e Tecnologias</h3> -->
 <div align="center">  
 <!--  <a href="https://git-scm.com/docs/git/pt_BR"><img src="https://skillicons.dev/icons?i=git"></a> -->
   <a href="https://docs.github.com/pt"><img src="https://skillicons.dev/icons?i=github"></a>
