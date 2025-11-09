@@ -55,9 +55,11 @@
 </div></td> 
 
 <td valign="top" width="15%">
-<!--<h3 align="center">Banco de Dados</h3>
-<div align="center">  
-  <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16"><img width="48" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/sqlserver.svg"></a>
+  <h3 align="center">GitHub Copilot</h3>
+  <img src="https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" alt="Microsoft 50 Anos - GitHub Copilot" class="sc-fyWEGK eVGwRH">
+<!--<h3 align="center">Banco de Dados</h3> -->
+  <div align="center">  
+  <!--<a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16"><img width="48" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/sqlserver.svg"></a>
   <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql"></a>
   <a href="https://www.mongodb.com/pt-br/docs/"><img src="https://skillicons.dev/icons?i=mongodb"></a>
   <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres"></a> -->
