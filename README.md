@@ -102,9 +102,9 @@
 </div></td>
 
 <td valign="top"  width="25%">
-<h3 align="center">Backend</h3>
+<!--<h3 align="center">Backend</h3>
 <div align="center">  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript"></a> -->
  <!-- <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs"></a>
   <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm"></a>
   <a href="https://www.typescriptlang.org/pt/docs/"><img src="https://skillicons.dev/icons?i=typescript"></a>
