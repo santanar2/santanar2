@@ -30,12 +30,9 @@
 <h3 align="center">FORMAÇÃO GITHUB</h3>
 <div align="center">  
 <img src = "https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" alt= Formação Github Certification>
-  
+  </div></td>
 
-</div></td>
-
-  
-<td valign="top"  width="15%">
+  <td valign="top"  width="15%">
 <h3 align="center">FORMAÇÃO GITHUB COPILOT</h3>
 <div align="center">  
   <img src = "https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" alt= Microsoft 50 Anos - GitHub Copilot>
@@ -43,14 +40,14 @@
 </div></td> 
 
 <td valign="top" width="15%">
-  <h3 align="center">GitHub Copilot</h3>
-  <img src="https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" alt="Microsoft 50 Anos - GitHub Copilot" class="sc-fyWEGK eVGwRH">
+  <h3 align="center">FORMAÇÃO HTML WEV DEVELOPER</h3>
+  <img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" alt="Microsoft 50 Anos - Formação HTML Web Developer">
 
   <div align="center">  
  
 </div></td>
   
-<td valign="top" width="30%">
+<td valign="top" width="15%">
 <h3 align="center">Ferramentas e Tecnologias</h3>
 <div align="center">  
 
