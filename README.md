@@ -33,27 +33,56 @@
   </div></td>
 
   <td valign="top"  width="15%">
-<h3 align="center">FORMAÇÃO GITHUB COPILOT</h3>
+<h3 align="center">GITHUB COPILOT</h3>
 <div align="center">  
   <img src = "https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" alt= Microsoft 50 Anos - GitHub Copilot>
 
 </div></td> 
 
 <td valign="top" width="15%">
-  <h3 align="center">FORMAÇÃO HTML WEV DEVELOPER</h3>
+  <h3 align="center">HTML WEV DEVELOPER</h3>
+  <div align="center"> 
   <img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" alt="Microsoft 50 Anos - Formação HTML Web Developer">
 
-  <div align="center">  
- 
 </div></td>
   
 <td valign="top" width="15%">
-<h3 align="center">Ferramentas e Tecnologias</h3>
+<h3 align="center">PROMPTS INTELIGENTS</h3>
 <div align="center">  
-
-  <a href="https://docs.github.com/pt"><img src="https://skillicons.dev/icons?i=github"></a>
+<img src="https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n" alt="Microsoft 50 Anos - Prompts Inteligentes">
 
 </div></td></tr>
+
+<!--PAGINA 2-->
+
+<table align="center" >
+<tr><td valign="top" width="15%">
+<h3 align="center">CSS WEB DEVELOPER</h3>
+<div align="center">  
+<img src = "https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n" alt= Formação CSS Web Developer>
+  </div></td>
+
+  <td valign="top"  width="15%">
+<h3 align="center"></h3>
+<div align="center">  
+  <img src = "" alt= >
+
+</div></td> 
+
+<td valign="top" width="15%">
+  <h3 align="center"></h3>
+  <div align="center"> 
+  <img src="" alt="">
+
+</div></td>
+  
+<td valign="top" width="15%">
+<h3 align="center"></h3>
+<div align="center">  
+<img src="" alt="">
+
+</div></td></tr>
+
 </table> 
 <br/>
 
