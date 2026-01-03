@@ -36,9 +36,9 @@
 
   
 <td valign="top"  width="15%">
-<h3 align="center">FORMAÇÃO GITHUB</h3>
+<h3 align="center">FORMAÇÃO GITHUB COPILOT</h3>
 <div align="center">  
-  <img src = "https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" alt= Formação Github Certification>
+  <img src = "https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" alt= Microsoft 50 Anos - GitHub Copilot>
 
 </div></td> 
 
