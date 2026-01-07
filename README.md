@@ -40,7 +40,7 @@
 </div></td> 
 
 <td valign="top" width="15%">
-  <h3 align="center">HTML WEV DEVELOPER</h3>
+  <h3 align="center">HTML WEB DEVELOPER</h3>
   <div align="center"> 
   <img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" alt="Microsoft 50 Anos - Formação HTML Web Developer">
 
