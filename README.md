@@ -53,6 +53,13 @@
 
 </div></td></tr>
 
+<td valign="top" width="15%">
+<h3 align="center">Formação JavaScript Developer</h3>
+<div align="center">  
+<img src="https://assets.dio.me/_ImeVq2qMIfyFkoYC-epZ9o-1X9soGtq69WUykqhiL4/f:webp/h:120/q:80/L3RyYWNrcy81NWU3MDQwZi03NzViLTQ3ZTUtYThmYi02OWQwMDJjYTE3YTkucG5n" alt="Formação JavaScript Developer">
+
+</div></td></tr>
+
 <!--PAGINA 2-->
 
 <table align="center" >
