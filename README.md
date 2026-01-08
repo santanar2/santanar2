@@ -51,6 +51,13 @@
 <div align="center">  
 <img src="https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n" alt="Microsoft 50 Anos - Prompts Inteligentes">
 
+<td valign="top" width="15%">
+<h3 align="center">CSS WEB DEVELOPER</h3>
+<div align="center">  
+<img src = "https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n" alt= Formação CSS Web Developer>
+
+</div></td></tr>
+
 </div></td></tr>
 
 <td valign="top" width="15%">
@@ -60,38 +67,7 @@
 
 </div></td></tr>
 
-<!--PAGINA 2-->
 
-<table align="center" >
-<tr><td valign="top" width="15%">
-<h3 align="center">CSS WEB DEVELOPER</h3>
-<div align="center">  
-<img src = "https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n" alt= Formação CSS Web Developer>
-  </div></td>
-
-  <td valign="top"  width="15%">
-<h3 align="center"></h3>
-<div align="center">  
-  <img src = "" alt= >
-
-</div></td> 
-
-<td valign="top" width="15%">
-  <h3 align="center"></h3>
-  <div align="center"> 
-  <img src="" alt="">
-
-</div></td>
-  
-<td valign="top" width="15%">
-<h3 align="center"></h3>
-<div align="center">  
-<img src="" alt="">
-
-</div></td></tr>
-
-</table> 
-<br/>
 
 ------------
 
