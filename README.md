@@ -68,8 +68,12 @@
 </div></td></tr>
 
 
+<!--bootcamps-->
+<table align="center" >
+</table> 
+<br/>
 
-------------
+
 
 <h2 align="center">:ghost: BOOTCAMPS:</h2>
 <table align="center" >
