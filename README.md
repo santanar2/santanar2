@@ -3,10 +3,13 @@
 
 # Bem-vindos ao meu GitHub! 
 
-(🚀 18/03/2026 um grande marca na evolução na minha jornada como desenvolvedor.
+
+ (🚀 18/03/2026 um grande marca na evolução na minha jornada como desenvolvedor.
 Com os estudos em React, estou aprimorando a organização dos repositórios, a estrutura dos projetos e a padronização do código, fortalecendo meu portfólio e minha preparação para atuar como Desenvolvedor Front-end.
 Gratidão à DIO por contribuir diretamente para essa evolução técnica e profissional.
  )
+
+ 
 
 ## :loop: Olá, eu sou Santana!
 
