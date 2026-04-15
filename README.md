@@ -75,6 +75,12 @@ Gratidão à DIO por contribuir diretamente para essa evolução técnica e prof
 
 </div></td></tr>
 
+<td valign="top" width="15%">
+<h3 align="center">Formação React Developer</h3>
+<div align="center">  
+<img src="https://assets.dio.me/9XhjEF1d-0HiFWFjN1Sj7_6Q7hQIZ6Kg5jZsTeGAqZk/f:webp/h:120/q:80/L3RyYWNrcy82OGM4MTg4Ny1hMWMyLTQ0MGQtYTdlYS03Nzc3YmMxMGNkNDEucG5n" alt="Formação React Developer">
+
+</div></td></tr>
 
 <!--bootcamps-->
 <table align="center" >
