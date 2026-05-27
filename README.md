@@ -4,13 +4,6 @@
 # Bem-vindos ao meu GitHub! 
 
 
- (🚀 18/03/2026 um grande marca na evolução na minha jornada como desenvolvedor.
-Com os estudos em React, estou aprimorando a organização dos repositórios, a estrutura dos projetos e a padronização do código, fortalecendo meu portfólio e minha preparação para atuar como Desenvolvedor Front-end.
-Gratidão à DIO por contribuir diretamente para essa evolução técnica e profissional.
- )
-
- 
-
 ## :loop: Olá, eu sou Santana!
 
 🎓 **Formação Superior:**
@@ -27,10 +20,14 @@ Gratidão à DIO por contribuir diretamente para essa evolução técnica e prof
 :station: propósito: "Sem propósito, não existimos. Foi o propósito que nos criou. O propósito nos conecta. Ele nos impele. Nos guia. Nos motiva. O propósito nos define.  O propósito nos une. Nós estamos aqui por sua causa,"!!! (Mr. Smith Matrix)
 
 :star2: **Jornada de Aprendizado:**
-- Estudando através do site: Curso em Vídeo, com o Professor Guanabara
+
 - Estudando através da plataforma Dio.me
 - Focada no desenvolvimento das minhas habilidades como desenvolvedor
 
+ (🚀 18/03/2026 um grande marca na evolução na minha jornada como desenvolvedor.
+Com os estudos em React, estou aprimorando a organização dos repositórios, a estrutura dos projetos e a padronização do código, fortalecendo meu portfólio e minha preparação para atuar como Desenvolvedor Front-end.
+Gratidão à DIO por contribuir diretamente para essa evolução técnica e profissional.
+ )
 
 <h2 align="center">🛠️ Tecnologias em aprendizado:</h2>
 <table align="center" >
@@ -139,6 +136,7 @@ Gratidão à DIO por contribuir diretamente para essa evolução técnica e prof
 </div></td></tr>
 </table> 
 <br/>
+
 
 
 -----------
