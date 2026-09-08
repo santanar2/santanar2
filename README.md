@@ -87,9 +87,17 @@ Gratidão à DIO por contribuir diretamente para essa evolução técnica e prof
 
 <h2 align="center">:ghost: BOOTCAMPS:</h2>
 <table align="center" >
-<tr><td valign="top" width="65%">
+ 
+<td valign="top" width="35%">
+ <div align="center">  
 <h3 align="center">SANTANDER 2025</h3>
 <img src="https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" alt="Santander 2025 - Front-End" class="sc-fyWEGK eVGwRH">
+
+<td valign="top" width="35%">
+ <div align="center">  
+<h3 align="center"> REACT FRONT- END IA SANTANDER 2026</h3>
+<img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Santander 2026 - AI React Front-end" class="sc-ilsNdd ELSfG">
+
   
 </div></td>
 
